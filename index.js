@@ -20,5 +20,5 @@ function iLoveTheBeatles(n) {
     timesILoveYou.push("I love the Beatles!");
     ++n;
   } while (n < 15);
-  
+  return timesILoveYou;
 }
